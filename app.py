@@ -16,7 +16,7 @@ def main():
     st.subheader("Create by Alankar Shukla.")
     html_temp = """
     <div style="background-color:tomato;padding:15px;">
-    <h2>Streamlit ML App</h2>pip freeze > requirements.txt
+    <h2>Streamlit ML App</h2>
     </div)  
     """
     st.markdown(html_temp, unsafe_allow_html=True)
