@@ -13,7 +13,7 @@ def predict(data):
 def main():
     """"Chance Of admission"""
     st.header("Admission Predictor ML App for admission chance predictor.")
-    st.subheader("Create by Alankar Shukla.")
+    st.subheader("Created by Alankar Shukla.")
     html_temp = """
     <div style="background-color:tomato;padding:15px;">
     <h2>Streamlit ML App</h2>
